@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: 1.8.2
+description: GetInData ML Ops Platform - Kubeflow Pipelines (Platform Agnostic), adapted
+  from official GCP Helm Chart
+icon: https://getindata.com/img/favicon-32x32.png
+maintainers:
+- email: mlops@getindata.com
+  name: getindata
+  url: https://getindata.com
+name: kubeflow-pipelines
+type: application
+version: 1.10.0
